@@ -1,9 +1,9 @@
-id: official_py_docker-{VER}
+id: GeneFiltering-{VER}
 
 meta:
   maintainer:
-    name: Xun Zhu
-    email: zhuxun@gmail.com
+    name: GranatumX
+    email: lana.garmire.group@gmail.com
 
 gboxes:
   - ./yamls/gene_filtering.yaml
